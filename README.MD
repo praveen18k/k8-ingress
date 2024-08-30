@@ -16,3 +16,4 @@ https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.6/
 ```
 helm repo add eks https://aws.github.io/eks-charts
 ```
+#### Sisxth Step:  helm install aws-load-balancer-controller
